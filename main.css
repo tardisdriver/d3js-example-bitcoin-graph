@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  margin-top: 5em;
+  background-color: #096d00;
+  font-family: "Mukta", sans-serif;
+}
+
+h1 {
+  color: snow;
+  text-shadow: 2px 4px #000;
+}
+.axis line,
+.axis path,
+.axis text {
+  stroke: snow;
+}
+
+.axis text {
+  fill: snow;
+  text-shadow: 2px 4px #000;
+}
+
+.area {
+  fill: DarkSeaGreen;
+  stroke-width: 0;
+}
